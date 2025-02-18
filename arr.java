@@ -104,6 +104,8 @@ public class arr {
         int[] gabung = gabungan(arrC, arrD);
         System.out.print("Hasil gabungan 2 data array. ");
         printtArr(gabung);
+
+        System.out.println("\n \n ===== kunci jawaban ada di file 'Latihan.java' ===== \n \n ");
         
     }
 
